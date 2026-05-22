@@ -50,3 +50,4 @@ Jalankan perintah `cat security_report.json` di terminal sekarang. Baca isi outp
 
 Laporan  =  https://docs.google.com/document/d/1Gufs5lmRy8Zrp9Se_f9XwgWuYE9on93LKja7rfObyzY/edit?usp=sharing
 Video  =  https://drive.google.com/file/d/1aT6_5yfVsJoF_dmOZ_QLsAYjIZtG5WkX/view?usp=sharing
+Sertifikat = https://drive.google.com/file/d/1QazfVeXH59xrWBP9Gsb7lnAnppY4Vbw1/view?usp=sharing
